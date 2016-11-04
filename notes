@@ -1,2 +1,2 @@
-""
-$(npm bin)/gulp - when executing gulp
+
+$(npm bin)/gulp watch
